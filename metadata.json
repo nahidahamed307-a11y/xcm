@@ -1,0 +1,7 @@
+{
+  "name": "LiveLight Cam",
+  "description": "Real-time camera with offline Adobe Lightroom preset (.xml/.xmp) parsing and zero-lag OpenGL ES color grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
